@@ -1,4 +1,0 @@
-[Thu May 26 2016 20:58:20 GMT-0500 (Hora est. Pacífico, Sudamérica)] layer "Facebook Twitter Instagram Pinterest Google+ ": Expected end of input but "+" found.
-[Thu May 26 2016 20:58:20 GMT-0500 (Hora est. Pacífico, Sudamérica)] layer "g+": Expected end of input but "+" found.
-[Thu May 26 2016 20:58:20 GMT-0500 (Hora est. Pacífico, Sudamérica)] layer "438-793-2227, info@boxtheme.com": Unsupported extension: com
-[Thu May 26 2016 20:58:20 GMT-0500 (Hora est. Pacífico, Sudamérica)] layer "USA, San Francisco 1575 De l’Avenir Blvd, Suite 2, Laval (QC), ": Expected end of input but "," found.
