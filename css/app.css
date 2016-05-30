@@ -48,8 +48,72 @@
 
 /*Helpers*/
 
+a{
+    color:#e2574c;
+}
+
+a:active,
+a:hover,
+a:focus,
+a:visited{
+    color:#AF261D;
+}
+
+
+.ultimos-productos--top{
+     padding: 0 0.3rem 0.7rem;
+}
+
+.ultimos-productos--bottom{
+     padding: 0 0.3rem;
+}
+
 .bg_footer{
     background-color: #242424;
+}
+
+.bg_gris{
+    background-color: #f2f2f2;
+}
+
+.bg_blanco{
+    background-color: #fff;
+    overflow: hidden;
+    padding: 0.7rem 0.3rem;
+}
+
+.padding--section{
+    padding: 6rem 0;
+}
+
+.padding--min{
+    padding: 0 0.3rem;
+}
+
+.product_popular--top{
+    padding-top: 3rem;
+}
+
+.product_popular--bottom{
+    padding-bottom: 3rem;
+}
+
+
+.text--small{
+    font-size:0.8em;
+    color:#7e7e7e;
+}
+
+.title--secundary{
+    font-size:1rem;
+    padding:1.5rem 0;
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+
+.title--product{
+    font-weight: bold;
+    color:#242424;
 }
 
 body{
@@ -65,12 +129,55 @@ h6{
     font-family: 'Raleway', sans-serif;
 }
 
-.footer,
-.footer a{
-    color: white;
+
+
+.button{
+    background-color: #e2574c;
+}
+
+    .button:hover{
+        background-color: #AF261D;
+    }
+
+/*Footer*/
+
+.footer{
+    padding:2rem 0;
+
+}
+
+.footer .menu li a,
+.footer .menu li{
+    color: #d3d3d3;
+    font-family: 'Raleway', sans-serif;
+    font-size:0.91rem;
+    padding:0.3rem 0;
+}
+
+.footer .menu li.text--white{
+    color:white;
+    font-weight: bold;
 }
 
 
 .logo{
     font-family: 'Playfair Display', serif;
 }
+
+
+.product{
+    color:#969696;
+}
+
+
+.price::before{
+    content: " $ ";
+}
+
+.mensaje__information{
+    width: 50%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
